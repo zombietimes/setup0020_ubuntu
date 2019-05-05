@@ -48,7 +48,7 @@ git clone https://github.com/zombietimes/setup0020_ubuntu.git
 cd setup0020_ubuntu
 sh ./ubuntuCmd_setupUbuntu.sh
 ```
-![setup0020_ubuntu_0000.png]()  
+![setup0020_ubuntu_0000](https://user-images.githubusercontent.com/50263232/57186150-e8f65e80-6f14-11e9-8589-a8304b542e2d.png)  
 
 ## Requirement
 I confirmed that it works on Ubuntu Desktop 18.04 in VirtualBox.  
@@ -83,7 +83,4 @@ Why?
 
 ## License
 BSD 3-Clause, see `LICENSE` file for details.  
-
----
-Produced by Zombie Times  
 
