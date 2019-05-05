@@ -56,25 +56,25 @@ It works on the environment below.
 - On Ubuntu.
 - Google Chrome.
 
-## Relative links
+## Relative link
 ### Overview
-[Ethereum : Official](https://www.ethereum.org/)  
-[Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)  
-[Loom Network : Official](https://loomx.io/)  
-[Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)  
+- [Ethereum : Official](https://www.ethereum.org/)
+- [Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+- [Loom Network : Official](https://loomx.io/)
+- [Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)
 
 ### Development
-[Online editor : EthFiddle](https://ethfiddle.com/)  
-[Online editor : Remix](https://remix.ethereum.org/)  
+- [Online editor : EthFiddle](https://ethfiddle.com/)
+- [Online editor : Remix](https://remix.ethereum.org/)
 
 ### Learning
-[Online learning : CryptoZombies](https://cryptozombies.io/)  
-[Grammar : Solidity](https://solidity.readthedocs.io/)  
-[Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)  
+- [Online learning : CryptoZombies](https://cryptozombies.io/)
+- [Grammar : Solidity](https://solidity.readthedocs.io/)
+- [Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 
 ### DApps
-[DApps : CryptoKitties](https://www.cryptokitties.co/)  
-[DApps : Zombie Battle ground](https://loom.games/en/)  
+- [DApps : CryptoKitties](https://www.cryptokitties.co/)
+- [DApps : Zombie Battle ground](https://loom.games/en/)
 
 ## Messages
 Do you believe that the decentralized world is coming?  
